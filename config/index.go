@@ -27,9 +27,9 @@ handle_cookie: True
 
 host:
   self: wiki.wr0926.ml
-  proxy: weiji.wr0926.ml
+  proxy: t.wr0926.ml
 replaced_urls:
-  - old: weiji.wr0926.ml
+  - old: t.wr0926.ml
     new: wiki.wr0926.ml
 `
 var Config *Yaml
