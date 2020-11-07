@@ -26,11 +26,11 @@ enable_ssl: True
 handle_cookie: True
 
 host:
-  self: wiki.wr0926.ml
+  self: co.wr0926.ml
   proxy: t.wr0926.ml
 replaced_urls:
   - old: t.wr0926.ml
-    new: wiki.wr0926.ml
+    new: co.wr0926.ml
 `
 var Config *Yaml
 var Protocal string
